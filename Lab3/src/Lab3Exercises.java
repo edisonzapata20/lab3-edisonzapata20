@@ -6,6 +6,7 @@ public class Lab3Exercises {
 		//myFrame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		myFrame.setLocation(850, 300);
 		myFrame.setSize(200,200);
-		myFrame.setVisible(true);
+		myFrame.setVisible(true); 
+		System.out.println("");
 	}
 }
